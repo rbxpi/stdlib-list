@@ -1,0 +1,20 @@
+{
+  "name": "stdlib_list",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "RbxPI": {
+        "$path": "RbxPI",
+        "Lib":{
+          "$path": "src/"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "tests/"
+    }
+  }
+}
