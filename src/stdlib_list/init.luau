@@ -8,7 +8,7 @@ local LICENSE = require(script.LICENSE)
 
 return {
     Name = "stdlib_list",
-    Version = {1, 0, 0, 'final', 0},
+    Version = {1, 0, 1, 'final', 0},
     Description = "List of standard library functions",
     Main = "out/index.luau",
     Author = "BlockGuard Software Foundation (https://github.com/blockguard-sf)",
