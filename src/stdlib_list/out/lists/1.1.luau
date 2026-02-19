@@ -1,5 +1,6 @@
 local t = {
-    "logging"
+    "logging",
+    "versionning"
 }
 
 return t
